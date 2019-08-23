@@ -1,25 +1,4 @@
-Skip to content
-Why GitHub? 
-Enterprise
-Explore 
-Marketplace
-Pricing 
-Search
 
-Sign in
-Sign up
-0 0 3,821 fozoglu/fozoglu.github.io
-forked from github/personal-website
- Code  Pull requests 0  Projects 0  Security  Insights
-Join GitHub today
-GitHub is home to over 40 million developers working together to host and review code, manage projects, and build software together.
-
-fozoglu.github.io/_config.yml
-@fozoglu fozoglu Update _config.yml
-e655add on 11 Jun
-@brandonrosage @aadibajpai @MatejMecka @fozoglu @dayanruben @tterb @ykzts @sophshep @srukle @SevereCloud @SUPERCILEX @jackvincentnz
-68 lines (57 sloc)  1.74 KB
-    
 layout: sidebar
 style: light
 
@@ -87,15 +66,3 @@ topics:
   - name: TensorFlow
     web_url: https://github.com/topics/tensorflow
     image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png
-© 2019 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
