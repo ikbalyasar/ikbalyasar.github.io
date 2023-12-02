@@ -1,6 +1,7 @@
 
 layout: sidebar
 style: light
+include: .htaccess
 plugins:
   - jekyll-octicons
   - jekyll-github-metadata
